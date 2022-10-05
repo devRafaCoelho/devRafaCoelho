@@ -1,6 +1,6 @@
-# Oie! Eu sou o Rafael Coelho.
+# Oie! Eu sou o Rafael Coelho, Desenvolvedor Front End.
 
-<div display="flex" align-itens="center">
+<div align-itens="center">
   <a href="https://github.com/devRafaCoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devRafaCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRafaCoelho&layout=compact&langs_count=7&theme=dracula"/>
