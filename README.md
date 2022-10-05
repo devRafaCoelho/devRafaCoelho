@@ -2,8 +2,8 @@
 
 <div justify="space-between">
   <a href="https://github.com/devRafaCoelho">
-  <img max-widith="calc(100%/2)" height="180em" src="https://github-readme-stats.vercel.app/api?username=devRafaCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img max-widith="calc(100%/2)" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRafaCoelho&layout=compact&langs_count=7&theme=dracula"/>
+  <img max-width="calc(100%/2)" height="180em" src="https://github-readme-stats.vercel.app/api?username=devRafaCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img max-width="calc(100%/2)" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRafaCoelho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
