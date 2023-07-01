@@ -1,4 +1,4 @@
-# Oie! Eu sou o Rafael Coelho, Desenvolvedor Front End.
+# Oi! Eu sou o Rafael Coelho, Desenvolvedor Full-stack.
 
 - ⚙️ Engeheiro Mecânico graduado pelo SENAI -CIMATEC;
 - 🖥️ Aluno Cubos Academy - Desenvolvimento de Software;
