@@ -1,30 +1,21 @@
-# Oi! Me chamo Rafael Coelho, sou Desenvolvedor Full-stack.
+<img align="right" width="400" height="400"
+src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
-- ⚙️ Engeheiro Mecânico graduado pelo SENAI -CIMATEC;
-- 🖥️ Aluno Cubos Academy - Desenvolvimento de Software;
+# Bem-vindo!
+## Eu sou o Rafael Coelho! Deixa eu te contar um pouco sobre mim :D
 
-#
+Desenvolvedor Full Stack focado em React, TypeScript e Node.js | Engenheiro de Software :robot:  
+Apaixonado por tecnologia e por programar :heart:
 
-<div align="center">
-  <a href="https://github.com/devRafaCoelho">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devRafaCoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devRafaCoelho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## Sobre mim
 
-<div align="center"><br>  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devRafaCoelho)](https://github.com/devRafaCoelho)
 
-#
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-coelho-63b75010b/)](https://www.linkedin.com/in/rafael-coelho-63b75010b/)
 
-<div align="center">   
-  <a href="https://www.instagram.com/urafacoelho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-  <a href = "mailto:devrafaelcoelho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-coelho-63b75010b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      
-</div>
+Desenvolvedor Full Stack com mais de 5 anos de experiência em soluções para os setores financeiro e de energia, com forte atuação em front-end e participação em decisões de arquitetura de software.
+
+**Stack principal:** React · TypeScript · Vue.js · Angular · Node.js · C#/.NET · PostgreSQL · SQL Server
+
+- Obrigado pela visita.
+- Aproveite!! o/
